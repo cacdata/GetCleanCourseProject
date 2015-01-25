@@ -1,6 +1,6 @@
 #run_analysis
 
-- **run_analysis.R** contains a single script to perform the actions required for the Getting and Cleaning Data Course project. All functionality is contained in a single script -- it is not that long. No other scripts are sourced. 
+- **run_analysis.R** contains a single script to perform the actions required for the Getting and Cleaning Data Course project. All functionality is contained in a single script -- it is not that long. No other scripts are sourced and all you need to do to execute the script it source it.
 
 ##Prereqs
 

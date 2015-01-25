@@ -106,7 +106,7 @@ This data set was created from the original source material cited above, followi
 - Duplicated columns names in the original data set were corrected using the make.names() function.
 - "t", "f", "mag" were all expanded to longer more descriptive parts of the name.
 - All _std or _mean attributes were placed at the end of the name.
-5. All variables were then grouped by subject (30) and activity (6) to make 180 rows with each subsequent column containing the average (mean) of that variable over the subject activity. An "avg" is prefixed to all those column headers which resulted in the data set described in this document. 
+5. All variables were then grouped by subject (30) and activity (6) to make 180 rows with each subsequent column containing the average (mean) of the observations for that variable for the subject activity. An "avg" is prefixed to all those column headers which resulted in the data set described in this document. 
 
 
 ## Other Information
